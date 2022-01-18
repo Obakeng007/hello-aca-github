@@ -1,4 +1,5 @@
 h3{
+    margin-left: 100px;
 
 }
 
@@ -7,4 +8,6 @@ button{
     color: burlywood;
     margin-top: 10px;
     margin-left: 100px;
+    height: 40px;
+    width: 100px;
 }
