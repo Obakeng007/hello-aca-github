@@ -1,10 +1,10 @@
 function toggle(){
-    var x = document.getElementById("Display");
-if(innerHTML ==="I love ACA"){
-    x.innerHTML="ACA just taught me about continuous integration and continuous deployment";
+    var x = document.getElementById('Display');
+if (x.innerHTML="ACA just taught me about continuous integration and continuous deployment"){
+    x.innerHTML="";
 }
 else {
-x.innerHTML= "I love ACA";
+    x.innerHTML="ACA just taught me about continuous integration and continuous deployment";
 }
 
 }
